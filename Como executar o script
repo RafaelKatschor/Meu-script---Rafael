@@ -1,1 +1,2 @@
 Para executar o script : Entre no seu terminal e use o comando ./calculadora.sh 
+Este script realiza cálculos das seguintes operações: adição, subtração, multiplicação, divisão, divisão inteira, cálculo de resto (módulo), potência, raiz quadrada e raiz cúbica.
